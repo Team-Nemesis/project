@@ -1,4 +1,4 @@
-# project
+# Public Repository
 IBM Hackathon Project
 
 
